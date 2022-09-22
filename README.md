@@ -13,7 +13,7 @@ Live :point_right: aleksandrajarczyk.com
 About me
 ![](https://aleksandrajarczyk.com/inne/omnie.png)
 
-About me
+Portfolio
 ![](https://aleksandrajarczyk.com/inne/portfolio-page.png)
 
 Experience
