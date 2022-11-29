@@ -1,2 +1,2 @@
-*.Wordpress linguist-detectable=true
+*.PHP linguist-detectable=true
 *.CSS linguist-detectable=false
